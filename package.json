@@ -1,0 +1,26 @@
+{
+  "name": "address_move_button",
+  "version": "1.0.0",
+  "description": "Allow you to add a Address Move Button to mail compose window.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shimamu/thunderbird-address-move-button.git"
+  },
+  "keywords": [
+    "thunderbird",
+    "address",
+    "move",
+    "button"
+  ],
+  "author": "Ryo Shimamura",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-compress": "^0.13.0",
+    "grunt-contrib-rename": "0.0.3"
+  }
+}
