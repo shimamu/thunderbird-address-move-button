@@ -7,16 +7,16 @@
     <em:id>address_move_button@d.hatena.ne.jp</em:id>
     <em:type>2</em:type>
     <em:name>Address Move Button</em:name>
-    <em:version>0.2</em:version>
+    <em:version>0.3</em:version>
     <em:description>Allow you to add a Address Move Button to mail compose window.</em:description>
-    <em:creator>arumamis</em:creator>
-    <em:homepageURL>http://d.hatena.ne.jp/arumamis/20110506/1304680051</em:homepageURL>
+    <em:creator>shimamu</em:creator>
+    <em:homepageURL>https://github.com/shimamu/</em:homepageURL>
     <em:iconURL>chrome://address_move_button/content/icon.png</em:iconURL>
     <em:targetApplication>
       <Description>
         <em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
         <em:minVersion>3.0</em:minVersion>
-        <em:maxVersion>5.*</em:maxVersion>
+        <em:maxVersion>60.*</em:maxVersion>
       </Description>
     </em:targetApplication>
   </Description>

@@ -12,7 +12,7 @@ module.exports = function(grunt) {
 			xpi: {
 				files: [{
 					src: ['dist/address_move_button.zip'],
-					dest: 'dist/address_move_button-0.2.xpi'
+					dest: 'dist/address_move_button-0.3.xpi'
 				}]
 			}
 		}

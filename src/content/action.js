@@ -24,7 +24,8 @@ function swapRecipient(recipientA, recipientB)
       setAddress(recipientB, addrA);
       setType(recipientB, typeA);
     }
-  } catch (e if e instanceof TypeError) {
+  } catch (e) {
+	  console.log(e);
   }
 }
 
